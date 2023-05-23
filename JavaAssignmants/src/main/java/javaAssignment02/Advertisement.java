@@ -18,5 +18,20 @@ public class Advertisement {
         System.out.println("this advertisement is featured: " + isFeatured );
         System.out.println ("this advertisement is sponsored: " + isSponsored);
 
+        //code from Aysha
+
+//        String title = "IzaanSchool";
+//        String Description = "Java class";
+//        String targetAudience = "Students";
+//
+//        System.out.println("title :" + title);
+//        System.out.println("Description :" + Description);
+//        System.out.println("target Audience :" + targetAudience);
+//
+//        if (targetAudience == "Students")
+//        {
+//            System.out.println("Students are the targeted audience for this Advertisement");
+//        }
+
     }
 }
