@@ -17,5 +17,4 @@ public class Flight {
         System.out.println ("Departure time:" + obj.departureTime);
         System.out.println ("Arrival time:" +obj.arrivalTime);
     }
-
 }
